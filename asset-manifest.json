@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/firebase/static/js/main.aa4b6fdb.js",
+    "main.js": "/firebase/static/js/main.6cda7cf0.js",
     "index.html": "/firebase/index.html",
-    "main.aa4b6fdb.js.map": "/firebase/static/js/main.aa4b6fdb.js.map"
+    "main.6cda7cf0.js.map": "/firebase/static/js/main.6cda7cf0.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa4b6fdb.js"
+    "static/js/main.6cda7cf0.js"
   ]
 }
